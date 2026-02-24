@@ -749,6 +749,14 @@
             "description": "Effortless Natural Language Generation with OpenAI's ChatGPT API."
         },
         {
+            "path": "wsdjeg/chat.nvim",
+            "owner": "wsdjeg",
+            "name": "chat.nvim",
+            "config": "chat_nvim.lua",
+            "url": "https://github.com/wsdjeg/chat.nvim",
+            "description": "A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools. "
+        },
+        {
             "path": "CamdenClark/flyboy",
             "owner": "CamdenClark",
             "name": "flyboy",
@@ -3129,6 +3137,14 @@
             "config": "cpicker_nvim.lua",
             "url": "https://github.com/wsdjeg/cpicker.nvim",
             "description": "A lightweight color palette plugin that supports a wide range of color models."
+        },
+        {
+            "path": "oskarnurm/koda.nvim",
+            "owner": "oskarnurm",
+            "name": "koda.nvim",
+            "config": "koda_nvim.lua",
+            "url": "https://github.com/oskarnurm/koda.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** Code's quiet companion. A minimalist colorscheme, written in Lua."
         },
         {
             "path": "yonatan-perel/lake-dweller.nvim",
