@@ -6817,6 +6817,14 @@
             "description": "Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail."
         },
         {
+            "path": "taigrr/glaze.nvim",
+            "owner": "taigrr",
+            "name": "glaze.nvim",
+            "config": "glaze_nvim.lua",
+            "url": "https://github.com/taigrr/glaze.nvim",
+            "description": "Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI."
+        },
+        {
             "path": "YouSame2/inlinediff-nvim",
             "owner": "YouSame2",
             "name": "inlinediff-nvim",
