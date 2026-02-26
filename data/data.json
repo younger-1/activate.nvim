@@ -9523,6 +9523,14 @@
             "config": "takatime.lua",
             "url": "https://github.com/Rtarun3606k/takatime",
             "description": "Privacy-first WakaTime alternative using Go and MongoDB."
+        },
+        {
+            "path": "taigrr/blast.nvim",
+            "owner": "taigrr",
+            "name": "blast.nvim",
+            "config": "blast_nvim.lua",
+            "url": "https://github.com/taigrr/blast.nvim",
+            "description": "Activity tracking client for NvimBlast with per-project configuration, monorepo support, and privacy controls."
         }
     ],
     "Automation": [
