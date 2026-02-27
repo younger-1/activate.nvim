@@ -1013,6 +1013,14 @@
             "description": "OpenCode AI assistant integration."
         },
         {
+            "path": "taigrr/neocrush.nvim",
+            "owner": "taigrr",
+            "name": "neocrush.nvim",
+            "config": "neocrush_nvim.lua",
+            "url": "https://github.com/taigrr/neocrush.nvim",
+            "description": "Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management."
+        },
+        {
             "path": "alessio-vivaldelli/java-creator-nvim",
             "owner": "alessio-vivaldelli",
             "name": "java-creator-nvim",
