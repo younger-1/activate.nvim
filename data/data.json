@@ -762,7 +762,7 @@
             "name": "chat.nvim",
             "config": "chat_nvim.lua",
             "url": "https://github.com/wsdjeg/chat.nvim",
-            "description": "A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools. "
+            "description": "A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools."
         },
         {
             "path": "CamdenClark/flyboy",
@@ -2555,6 +2555,14 @@
             "description": "A minimalist picker that doesn't get in your way."
         },
         {
+            "path": "dtormoen/neural-open.nvim",
+            "owner": "dtormoen",
+            "name": "neural-open.nvim",
+            "config": "neural_open_nvim.lua",
+            "url": "https://github.com/dtormoen/neural-open.nvim",
+            "description": "Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next."
+        },
+        {
             "path": "nvim-tree/nvim-tree.lua",
             "owner": "nvim-tree",
             "name": "nvim-tree.lua",
@@ -4217,6 +4225,14 @@
             "config": "gruvbox_minimal_nvim.lua",
             "url": "https://github.com/dybdeskarphet/gruvbox-minimal.nvim",
             "description": "**_`[TS][L/D][Lua]`_** A Gruvbox Material theme conceptually inspired by Alabaster."
+        },
+        {
+            "path": "taigrr/cyberpunk.nvim",
+            "owner": "taigrr",
+            "name": "cyberpunk.nvim",
+            "config": "cyberpunk_nvim.lua",
+            "url": "https://github.com/taigrr/cyberpunk.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background."
         }
     ],
     "Colorscheme Creation": [
