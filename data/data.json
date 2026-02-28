@@ -599,6 +599,14 @@
             "config": "lsp_document_highlight_nvim.lua",
             "url": "https://github.com/akioweh/lsp-document-highlight.nvim",
             "description": "Instantaneous LSP symbol reference highlighting under the cursor."
+        },
+        {
+            "path": "nemanjamalesija/ts-expand-hover.nvim",
+            "owner": "nemanjamalesija",
+            "name": "ts-expand-hover.nvim",
+            "config": "ts_expand_hover_nvim.lua",
+            "url": "https://github.com/nemanjamalesija/ts-expand-hover.nvim",
+            "description": "Progressively expand and collapse TypeScript type aliases inside the hover float."
         }
     ],
     "LSP Installer": [
@@ -4987,6 +4995,14 @@
             "config": "smm_nvim.lua",
             "url": "https://github.com/iamt4nk/smm.nvim",
             "description": "Small TUI that allows for controlling Spotify playback."
+        },
+        {
+            "path": "sanjay-np/nvim-yt-player",
+            "owner": "sanjay-np",
+            "name": "nvim-yt-player",
+            "config": "nvim_yt_player.lua",
+            "url": "https://github.com/sanjay-np/nvim-yt-player",
+            "description": "Play YouTube audio using `mpv` and `yt-dlp` via IPC socket."
         },
         {
             "path": "niuiic/todo.nvim",
