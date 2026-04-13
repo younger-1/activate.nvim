@@ -201,6 +201,14 @@
             "description": "Provide inline virtual text displaying TypeScript types for the inspected variables."
         },
         {
+            "path": "retran/meow.yarn.nvim",
+            "owner": "retran",
+            "name": "meow.yarn.nvim",
+            "config": "meow_yarn_nvim.lua",
+            "url": "https://github.com/retran/meow.yarn.nvim",
+            "description": "Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer."
+        },
+        {
             "path": "ray-x/navigator.lua",
             "owner": "ray-x",
             "name": "navigator.lua",
@@ -10379,6 +10387,14 @@
             "config": "spinner_nvim.lua",
             "url": "https://github.com/xieyonn/spinner.nvim",
             "description": "Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor."
+        },
+        {
+            "path": "quickui.nvim",
+            "owner": "",
+            "name": "quickui.nvim",
+            "config": "quickui_nvim.lua",
+            "url": "https://github.com/mjmjm0101/quickui.nvim",
+            "description": "Structured, keyboard-driven menus and context menus with nested navigation."
         },
         {
             "path": "tokiory/neovim-boilerplate",
