@@ -7145,14 +7145,6 @@
             "description": "Visual Git Plugin to enhance your Git experience."
         },
         {
-            "path": "sindrets/diffview.nvim",
-            "owner": "sindrets",
-            "name": "diffview.nvim",
-            "config": "diffview_nvim.lua",
-            "url": "https://github.com/sindrets/diffview.nvim",
-            "description": "Single tabpage interface for easily cycling through diffs for all modified files for any Git rev."
-        },
-        {
             "path": "dlyongemallo/diffview.nvim",
             "owner": "dlyongemallo",
             "name": "diffview.nvim",
