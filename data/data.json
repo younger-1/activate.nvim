@@ -4083,6 +4083,14 @@
             "description": "**_`[TS][LSP][Lua]`_** A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens."
         },
         {
+            "path": "micdzu/aalto.nvim",
+            "owner": "micdzu",
+            "name": "aalto.nvim",
+            "config": "aalto_nvim.lua",
+            "url": "https://github.com/micdzu/aalto.nvim",
+            "description": "**_`[TS][LSP][L/D][Lua]`_** A semantic colorscheme with a perceptual OKLCH engine, featuring four semantic roles and both dark and light variants."
+        },
+        {
             "path": "miikanissi/modus-themes.nvim",
             "owner": "miikanissi",
             "name": "modus-themes.nvim",
@@ -6607,6 +6615,14 @@
             "config": "executor_nvim.lua",
             "url": "https://github.com/google/executor.nvim",
             "description": "Allows you to run command line tasks in the background and be notified of results."
+        },
+        {
+            "path": "sektant1/executioner.nvim",
+            "owner": "sektant1",
+            "name": "executioner.nvim",
+            "config": "executioner_nvim.lua",
+            "url": "https://github.com/sektant1/executioner.nvim",
+            "description": "Script picker and runner to find and run any script from your project directory, with or without arguments."
         },
         {
             "path": "Zeioth/compiler.nvim",
