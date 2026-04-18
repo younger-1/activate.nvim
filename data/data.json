@@ -513,6 +513,14 @@
             "description": "Garbage collector that stops inactive LSP clients to free RAM."
         },
         {
+            "path": "ryan-WORK/ohm",
+            "owner": "ryan-WORK",
+            "name": "ohm",
+            "config": "ohm.lua",
+            "url": "https://github.com/ryan-WORK/ohm",
+            "description": "A persistent LSP process manager daemon for Neovim. Fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation."
+        },
+        {
             "path": "rachartier/tiny-inline-diagnostic.nvim",
             "owner": "rachartier",
             "name": "tiny-inline-diagnostic.nvim",
@@ -4377,6 +4385,14 @@
             "config": "silkcircuit.lua",
             "url": "https://github.com/hyperb1iss/silkcircuit",
             "description": "**_`[TS][LSP][L/D][Lua]`_** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools."
+        },
+        {
+            "path": "T-b-t-nchos/Aquavium.nvim",
+            "owner": "T-b-t-nchos",
+            "name": "Aquavium.nvim",
+            "config": "Aquavium_nvim.lua",
+            "url": "https://github.com/T-b-t-nchos/Aquavium.nvim",
+            "description": "**_`[TS][Lua]`_** Aquarium-themed color scheme, designed for use with a transparent terminal background."
         }
     ],
     "Colorscheme Creation": [
