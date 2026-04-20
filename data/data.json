@@ -2376,7 +2376,7 @@
             "name": "sad.nvim",
             "config": "sad_nvim.lua",
             "url": "https://github.com/ray-x/sad.nvim",
-            "description": "Space Age seD integration. Batch file edit tool, a wrapper for [sad](https://github.com/ms-jpq/sad)"
+            "description": "Space Age seD integration. Batch file edit tool, a wrapper for [sad](https://github.com/ms-jpq/sad)."
         },
         {
             "path": "s1n7ax/nvim-search-and-replace",
@@ -2456,7 +2456,7 @@
             "name": "grug-far.nvim",
             "config": "grug_far_nvim.lua",
             "url": "https://github.com/MagicDuck/grug-far.nvim",
-            "description": "Buffer-based live search and replace with full power of `rg` flags. Grug like!"
+            "description": "Buffer-based live search and replace with full power of `rg` flags. Grug like."
         },
         {
             "path": "chrisgrieser/nvim-rip-substitute",
@@ -4718,7 +4718,7 @@
             "name": "statusline.lua",
             "config": "statusline_lua.lua",
             "url": "https://github.com/beauwilliams/statusline.lua",
-            "description": "A zero-config minimal statusline written in Lua featuring awesome integrations and blazing speed!"
+            "description": "A zero-config minimal statusline written in Lua featuring awesome integrations and blazing speed."
         },
         {
             "path": "tamton-aquib/staline.nvim",
@@ -8699,6 +8699,14 @@
     ],
     "Comment": [
         {
+            "path": "jeangiraldoo/codedocs.nvim",
+            "owner": "jeangiraldoo",
+            "name": "codedocs.nvim",
+            "config": "codedocs_nvim.lua",
+            "url": "https://github.com/jeangiraldoo/codedocs.nvim",
+            "description": "A powerful and customizable annotation framework with support for many languages and annotation conventions."
+        },
+        {
             "path": "numToStr/Comment.nvim",
             "owner": "numToStr",
             "name": "Comment.nvim",
@@ -9396,7 +9404,7 @@
             "name": "windows.nvim",
             "config": "windows_nvim.lua",
             "url": "https://github.com/anuvyklack/windows.nvim",
-            "description": "Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations!"
+            "description": "Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations."
         },
         {
             "path": "nvim-zh/colorful-winsep.nvim",
@@ -9924,7 +9932,7 @@
             "name": "CosmicNvim",
             "config": "CosmicNvim.lua",
             "url": "https://github.com/CosmicNvim/CosmicNvim",
-            "description": "CosmicNvim is a lightweight and opinionated config for web development, specifically designed to provide a COSMIC programming experience!"
+            "description": "CosmicNvim is a lightweight and opinionated config for web development, specifically designed to provide a COSMIC programming experience."
         },
         {
             "path": "artart222/CodeArt",
