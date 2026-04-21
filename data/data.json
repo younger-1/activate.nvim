@@ -1251,6 +1251,14 @@
             "config": "copy_python_path_nvim.lua",
             "url": "https://github.com/AnsonH/copy-python-path.nvim",
             "description": "Copy the reference or import path of a Python symbol."
+        },
+        {
+            "path": "J-Cowsert/classlayout.nvim",
+            "owner": "J-Cowsert",
+            "name": "classlayout.nvim",
+            "config": "classlayout_nvim.lua",
+            "url": "https://github.com/J-Cowsert/classlayout.nvim",
+            "description": "Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window."
         }
     ],
     "Golang": [
