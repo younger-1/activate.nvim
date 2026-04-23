@@ -8049,6 +8049,14 @@
             "description": "Floating scrollbar."
         },
         {
+            "path": "DrKJeff16/shebang.nvim",
+            "owner": "DrKJeff16",
+            "name": "shebang.nvim",
+            "config": "shebang_nvim.lua",
+            "url": "https://github.com/DrKJeff16/shebang.nvim",
+            "description": "Add or modify a shebang on top of the current file."
+        },
+        {
             "path": "nxhung2304/lastplace.nvim",
             "owner": "nxhung2304",
             "name": "lastplace.nvim",
