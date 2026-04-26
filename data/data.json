@@ -6761,6 +6761,14 @@
             "description": "File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix."
         },
         {
+            "path": "saghen/blink.lib",
+            "owner": "saghen",
+            "name": "blink.lib",
+            "config": "blink_lib.lua",
+            "url": "https://github.com/saghen/blink.lib",
+            "description": "Generic utilities for all other `blink.*` plugins."
+        },
+        {
             "path": "folke/lazydev.nvim",
             "owner": "folke",
             "name": "lazydev.nvim",
