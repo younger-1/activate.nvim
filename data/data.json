@@ -5029,6 +5029,14 @@
             "description": "A dead-simple, customizable and cozy dashboard with sane defaults and zero config required."
         },
         {
+            "path": "Amansingh-afk/milli.nvim",
+            "owner": "Amansingh-afk",
+            "name": "milli.nvim",
+            "config": "milli_nvim.lua",
+            "url": "https://github.com/Amansingh-afk/milli.nvim",
+            "description": "Animated ASCII splash screens with bundled animations and custom image or GIF support."
+        },
+        {
             "path": "nvim-tree/nvim-web-devicons",
             "owner": "nvim-tree",
             "name": "nvim-web-devicons",
