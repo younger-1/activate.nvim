@@ -5501,6 +5501,14 @@
             "description": "Quick note-taking in Markdown with both repo-specific and global notepad support."
         },
         {
+            "path": "MattHandzel/taskwarrior.nvim",
+            "owner": "MattHandzel",
+            "name": "taskwarrior.nvim",
+            "config": "taskwarrior_nvim.lua",
+            "url": "https://github.com/MattHandzel/taskwarrior.nvim",
+            "description": "Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim."
+        },
+        {
             "path": "StefanBartl/color_my_ascii.nvim",
             "owner": "StefanBartl",
             "name": "color_my_ascii.nvim",
