@@ -2355,6 +2355,14 @@
             "description": "Display marks in the buffer gutter."
         },
         {
+            "path": "adithyasource/spearmint.nvim",
+            "owner": "adithyasource",
+            "name": "spearmint.nvim",
+            "config": "spearmint_nvim.lua",
+            "url": "https://github.com/adithyasource/spearmint.nvim",
+            "description": "Lightweight harpoon-style marks with terminal support."
+        },
+        {
             "path": "2KAbhishek/seeker.nvim",
             "owner": "2KAbhishek",
             "name": "seeker.nvim",
