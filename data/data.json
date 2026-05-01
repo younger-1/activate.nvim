@@ -361,6 +361,14 @@
             "description": "Add LSP functionality to specific buffers."
         },
         {
+            "path": "error311/wayfinder.nvim",
+            "owner": "error311",
+            "name": "wayfinder.nvim",
+            "config": "wayfinder_nvim.lua",
+            "url": "https://github.com/error311/wayfinder.nvim",
+            "description": "Guided code exploration from the current symbol with a keepable trail."
+        },
+        {
             "path": "DNLHC/glance.nvim",
             "owner": "DNLHC",
             "name": "glance.nvim",
@@ -5253,6 +5261,14 @@
             "description": "A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization."
         },
         {
+            "path": "sduras/duras_bridge",
+            "owner": "sduras",
+            "name": "duras_bridge",
+            "config": "duras_bridge.lua",
+            "url": "https://github.com/sduras/duras_bridge",
+            "description": "Bridge for [duras](https://codeberg.org/duras/duras) plain-text daily notes; append, search, and open notes from the editor."
+        },
+        {
             "path": "gmcusaro/ma.nvim",
             "owner": "gmcusaro",
             "name": "ma.nvim",
@@ -8087,6 +8103,14 @@
             "config": "scrollbar_nvim.lua",
             "url": "https://github.com/wsdjeg/scrollbar.nvim",
             "description": "Floating scrollbar."
+        },
+        {
+            "path": "DrKJeff16/boolean-toggle.nvim",
+            "owner": "DrKJeff16",
+            "name": "boolean-toggle.nvim",
+            "config": "boolean_toggle_nvim.lua",
+            "url": "https://github.com/DrKJeff16/boolean-toggle.nvim",
+            "description": "Toggle between `true` and `false` under your cursor."
         },
         {
             "path": "DrKJeff16/shebang.nvim",
