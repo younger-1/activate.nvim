@@ -2539,6 +2539,14 @@
             "description": "Analyze logs by defining regex patterns to highlight and/or isolate matching lines."
         },
         {
+            "path": "ankushbhagats/match.nvim",
+            "owner": "ankushbhagats",
+            "name": "match.nvim",
+            "config": "match_nvim.lua",
+            "url": "https://github.com/ankushbhagats/match.nvim",
+            "description": "Minimal floating search-and-replace with live match tracking, navigation, and quick replacements."
+        },
+        {
             "path": "nvim-telescope/telescope.nvim",
             "owner": "nvim-telescope",
             "name": "telescope.nvim",
