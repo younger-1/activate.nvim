@@ -5245,6 +5245,14 @@
             "description": "Play YouTube audio using `mpv` and `yt-dlp` via IPC socket."
         },
         {
+            "path": "DaFi-1/tasknvim",
+            "owner": "DaFi-1",
+            "name": "tasknvim",
+            "config": "tasknvim.lua",
+            "url": "https://github.com/DaFi-1/tasknvim",
+            "description": "A simple tool for life and personal development that helps organize goals, track habits, and improve productivity."
+        },
+        {
             "path": "niuiic/todo.nvim",
             "owner": "niuiic",
             "name": "todo.nvim",
