@@ -4709,6 +4709,14 @@
             "config": "bars_nvim.lua",
             "url": "https://github.com/OXY2DEV/bars.nvim",
             "description": "A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar."
+        },
+        {
+            "path": "zaakiy/line-justice.nvim",
+            "owner": "zaakiy",
+            "name": "line-justice.nvim",
+            "config": "line_justice_nvim.lua",
+            "url": "https://github.com/zaakiy/line-justice.nvim",
+            "description": "Shows both absolute and relative line numbers simultaneously."
         }
     ],
     "Statusline": [
