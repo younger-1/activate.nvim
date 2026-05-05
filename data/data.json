@@ -3315,6 +3315,14 @@
             "description": "A lightweight color palette plugin that supports a wide range of color models."
         },
         {
+            "path": "leolaurindo/tunnelvision.nvim",
+            "owner": "leolaurindo",
+            "name": "tunnelvision.nvim",
+            "config": "tunnelvision_nvim.lua",
+            "url": "https://github.com/leolaurindo/tunnelvision.nvim",
+            "description": "Focus on one symbol at a time by dimming unrelated lines."
+        },
+        {
             "path": "ThorstenRhau/token",
             "owner": "ThorstenRhau",
             "name": "token",
@@ -6301,6 +6309,14 @@
             "config": "nvim_winterm.lua",
             "url": "https://github.com/gh-liu/nvim-winterm",
             "description": "Multi-terminal window manager."
+        },
+        {
+            "path": "hawknewton/termyank.nvim",
+            "owner": "hawknewton",
+            "name": "termyank.nvim",
+            "config": "termyank_nvim.lua",
+            "url": "https://github.com/hawknewton/termyank.nvim",
+            "description": "Avoid yanking newlines in a terminal buffer."
         },
         {
             "path": "mfussenegger/nvim-dap",
