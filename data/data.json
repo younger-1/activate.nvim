@@ -4879,6 +4879,14 @@
             "config": "slimline_nvim.lua",
             "url": "https://github.com/sschleemilch/slimline.nvim",
             "description": "A slim, minimal and opinionated Lua statusline."
+        },
+        {
+            "path": "tajirhas9/muslim.nvim",
+            "owner": "tajirhas9",
+            "name": "muslim.nvim",
+            "config": "muslim_nvim.lua",
+            "url": "https://github.com/tajirhas9/muslim.nvim",
+            "description": "Get prayer times and useful islamic essentials in your statusline."
         }
     ],
     "Tabline": [
