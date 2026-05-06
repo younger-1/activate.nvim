@@ -1,6 +1,14 @@
 {
     "Manager": [
         {
+            "path": "alyxshang/nuwa.nvim",
+            "owner": "alyxshang",
+            "name": "nuwa.nvim",
+            "config": "nuwa_nvim.lua",
+            "url": "https://source.alyxshang.boo/alyxshang/nuwa.nvim",
+            "description": "A light package manager."
+        },
+        {
             "path": "lewis6991/pckr.nvim",
             "owner": "lewis6991",
             "name": "pckr.nvim",
