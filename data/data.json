@@ -3075,6 +3075,14 @@
             "description": "Make tab-local buffers."
         },
         {
+            "path": "akasataikisiti/tabLocalBuffer.nvim",
+            "owner": "akasataikisiti",
+            "name": "tabLocalBuffer.nvim",
+            "config": "tabLocalBuffer_nvim.lua",
+            "url": "https://github.com/akasataikisiti/tabLocalBuffer.nvim",
+            "description": "Keeps a per-tab buffer list and provides its own bnext / bprevious style navigation that cycles only within the current tab."
+        },
+        {
             "path": "j-morano/buffer_manager.nvim",
             "owner": "j-morano",
             "name": "buffer_manager.nvim",
