@@ -6493,6 +6493,14 @@
             "config": "rocketlog_nvim.lua",
             "url": "https://github.com/evanmcpheron/rocketlog.nvim",
             "description": "Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching."
+        },
+        {
+            "path": "NickTsaizer/splitasm.nvim",
+            "owner": "NickTsaizer",
+            "name": "splitasm.nvim",
+            "config": "splitasm_nvim.lua",
+            "url": "https://github.com/NickTsaizer/splitasm.nvim",
+            "description": "View compiled assembly output side by side with source code, with synchronized cursor movement."
         }
     ],
     "Quickfix": [
@@ -9857,6 +9865,38 @@
             "config": "exercism_nvim.lua",
             "url": "https://github.com/2KAbhishek/exercism.nvim",
             "description": "Browse and solve Exercism problems."
+        },
+        {
+            "path": "folke/drop.nvim",
+            "owner": "folke",
+            "name": "drop.nvim",
+            "config": "drop_nvim.lua",
+            "url": "https://github.com/folke/drop.nvim",
+            "description": "Screensavers with support for dashboards."
+        },
+        {
+            "path": "axsaucedo/neovim-power-mode",
+            "owner": "axsaucedo",
+            "name": "neovim-power-mode",
+            "config": "neovim_power_mode.lua",
+            "url": "https://github.com/axsaucedo/neovim-power-mode",
+            "description": "Combo counter, particle effects and explosions for your editor."
+        },
+        {
+            "path": "jerrywang1981/keystroke.nvim",
+            "owner": "jerrywang1981",
+            "name": "keystroke.nvim",
+            "config": "keystroke_nvim.lua",
+            "url": "https://github.com/jerrywang1981/keystroke.nvim",
+            "description": "Play sounds and do other things as you type."
+        },
+        {
+            "path": "cxwx/keywound.nvim",
+            "owner": "cxwx",
+            "name": "keywound.nvim",
+            "config": "keywound_nvim.lua",
+            "url": "https://github.com/cxwx/keysound.nvim",
+            "description": "Play a sound on each keystroke, supports customizable sounds."
         },
         {
             "path": "letieu/jira.nvim",
