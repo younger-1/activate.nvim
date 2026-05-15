@@ -4457,6 +4457,14 @@
             "config": "Aquavium_nvim.lua",
             "url": "https://github.com/T-b-t-nchos/Aquavium.nvim",
             "description": "**_`[TS][Lua]`_** Aquarium-themed color scheme, designed for use with a transparent terminal background."
+        },
+        {
+            "path": "54L1M/Oshen.nvim",
+            "owner": "54L1M",
+            "name": "Oshen.nvim",
+            "config": "Oshen_nvim.lua",
+            "url": "https://github.com/54L1M/Oshen.nvim",
+            "description": "**_`[TS][LSP][Lua]`_** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors."
         }
     ],
     "Colorscheme Creation": [
