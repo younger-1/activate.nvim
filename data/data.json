@@ -9896,7 +9896,7 @@
             "name": "atlas.nvim",
             "config": "atlas_nvim.lua",
             "url": "https://github.com/emrearmagan/atlas.nvim",
-            "description": "Manage Bitbucket PRs and Jira issues."
+            "description": "A single workflow for GitHub, GitLab, Bitbucket, and Jira."
         }
     ],
     "Stats Tracking": [
